@@ -32,7 +32,7 @@ requirements:
     - matplotlib-base
     - numba
     - numpy
-    - pandas >=1.5.1
+    - pandas >=1.5.1,<2 #Temporary required limit
     - python
     - scikit-learn >=1.1.2
     - scipy
